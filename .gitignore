@@ -1,0 +1,10 @@
+venv/
+.venv/
+env/
+
+*_report.xlsx
+
+__pycache__/
+
+.vscode/
+.idea/
